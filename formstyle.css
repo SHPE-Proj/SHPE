@@ -1,0 +1,33 @@
+body {
+	height: 1000px;
+	background: -webkit-linear-gradient(left,#E6B800,#FFDB4D);
+		
+
+}
+img {
+	margin-left: 18em;
+ 	margin-bottom: 1em;
+	height: 200px;
+	width: 750px;
+}
+label {
+	font-size: 1.5em;
+	margin-left: 25em;
+	
+}
+input[type="submit"] {	
+	
+	margin-left: 55em;
+}
+input[type=text], input[type=url], input[type=email], input[type=password], input[type=tel] {
+  -webkit-appearance: none; -moz-appearance: none;
+  display: block;
+  margin: 0;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  margin-left: .5em;
+  margin-right: .5em;
+  width: 91.5%; height: 2em;
+  line-height: 2em; font-size: 2em;
+  border: 1px solid #bbb;
+}
